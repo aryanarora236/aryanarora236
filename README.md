@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aryanarora236/aryanarora236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Computer Science at the University of Pennsylvania (minors in Math and Statistics), interested in **market microstructure**, **machine learning**, and **sequential decision-making under uncertainty**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 📈 **[lob-execution-sim](https://github.com/aryanarora236/lob-execution-sim)** — Queue-position-aware limit order book simulator built on real NASDAQ ITCH data. Cross-ticker microstructure study of fill predictability and adverse selection.
+- 📅 **[Agendify](https://github.com/aryanarora236/Agendify)** — Chrome extension that uses NLP to extract calendar events from emails. Flask backend, Google Calendar sync, parses 15+ email formats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coming up
+- ML Engineer Intern @ **Spotify** (Summer 2026)
+- Previously: ML Engineer Intern @ **Exaia Technologies** (Summer 2025)
+
+## Reach me
+📫 aryarora@seas.upenn.edu · [LinkedIn](https://linkedin.com/in/aryanarora1)
